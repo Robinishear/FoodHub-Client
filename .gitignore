@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+.pnp.*
+# next.js
+/.next/
+
+/build
+
+.env*
+
