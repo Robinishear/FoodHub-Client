@@ -43,4 +43,26 @@ export const blogPosts: BlogPost[] = [
     content:
       'Modern delivery systems can stay fast while reducing waste. Route optimization, low-emission delivery partners, and recyclable packaging lower environmental impact without compromising service quality.',
   },
+   {
+    id: 3,
+    title: 'How Delivery Apps are Balancing Speed and Sustainability',
+    excerpt: 'FoodHub commitment to eco-friendly packaging and conscious delivery methods...',
+    image: '/blog_food.avif',
+    author: 'Emma Wilson',
+    date: 'Aug 05, 2026',
+    category: 'Inside FoodHub',
+    content:
+      'Modern delivery systems can stay fast while reducing waste. Route optimization, low-emission delivery partners, and recyclable packaging lower environmental impact without compromising service quality.',
+  },
+   {
+    id: 3,
+    title: 'How Delivery Apps are Balancing Speed and Sustainability',
+    excerpt: 'FoodHub commitment to eco-friendly packaging and conscious delivery methods...',
+    image: '/blog_food.avif',
+    author: 'Emma Wilson',
+    date: 'Aug 05, 2026',
+    category: 'Inside FoodHub',
+    content:
+      'Modern delivery systems can stay fast while reducing waste. Route optimization, low-emission delivery partners, and recyclable packaging lower environmental impact without compromising service quality.',
+  },
 ];
